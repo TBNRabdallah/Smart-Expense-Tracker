@@ -3,9 +3,9 @@
 The Smart Expense Tracker is a comprehensive Python-based command-line application designed to help students and individuals effectively manage their personal finances. Built with modular architecture and object-oriented programming principles.
 
 
-🌟 Features-->
+ Features-->
 
-📊 1. Expense Management-->
+  1. Expense Management-->
 
 
 A. Add & Track Expenses: Log daily expenses with categories and descriptions
@@ -17,7 +17,7 @@ C. Data Validation: Robust input validation and error handling
 D. Unique ID System: Automatic expense ID generation
 
 
-📈 2. Data Visualization-->
+  2. Data Visualization-->
 
 
 A. Interactive Pie Charts: Visual breakdown of spending by category
@@ -28,7 +28,7 @@ C. Comparative Analysis: Side-by-side comparison of different months
 
 D. Professional Styling: Clean, modern visualizations using Matplotlib
 
-🔍 3. Advanced Analysis-->
+  3. Advanced Analysis-->
 
 
 A. Category-wise Filtering: View expenses by specific categories
@@ -39,7 +39,7 @@ C. Financial Summaries: Detailed reports by category and month
 
 D. Pattern Recognition: Identify spending habits and trends
 
-💾 4. Data Persistence-->
+ 4. Data Persistence-->
 
 
 A. CSV-based Storage: Simple, human-readable data format
@@ -50,7 +50,7 @@ C. Data Recovery: Load existing data on startup
 
 D. Cross-platform Compatibility: Works on Windows, macOS, and Linux
 
-🚀 Quick Start-->
+ Quick Start-->
 
 
 Prerequisites: 
@@ -73,7 +73,7 @@ pandas >= 1.3.0 - Data manipulation and analysis
 
 matplotlib >= 3.3.0 - Data visualization and plotting
 
-👨‍💻 Developer-->
+ Developer-->
 Abdallah Nadeem
 
 First Year B.Tech Student
